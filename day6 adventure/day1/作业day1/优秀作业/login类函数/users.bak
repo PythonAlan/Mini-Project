@@ -1,0 +1,39 @@
+{
+    "id": 1,
+    "information": {
+        "name": "ccj",
+        "age": 24,
+        "authentication": {
+            "username": "cj",
+            "passwd": "123",
+            "unpass_question": [
+                {
+                    "fav_number": 22
+                },
+                {
+                    "fav_animal": "Fish"
+                }
+            ]
+        }
+    },
+    "status": {
+        "tag": "unlocked",
+        "superuser": "yes"
+    }
+}
+
+
+{"id":1,"information":{"name":"ccj","age":24,"authentication":{"username":"cj","passwd":"123","unpass_question":[{"fav_number":22},{"fav_animal":"Fish"}]}},"status":{"tag":"unlocked","superuser":"yes"}}
+{"id":2,"information":{"name":"xyh","age":25,"authentication":{"username":"yh","passwd":"321","unpass_question":[{"fav_number":7}]}},"status":{"tag":"unlocked","superuser":"no"}}
+
+#index
+#id:2,passwd:123,tag:unlocked,superuser:no
+
+{
+    'yh': {
+        'tag': 'unlocked',
+        'id': 2,
+        'superuser': 'no',
+        'passwd': '321'
+    }
+

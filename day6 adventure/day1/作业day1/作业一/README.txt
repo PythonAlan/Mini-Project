@@ -1,0 +1,1 @@
+python:编写登陆接口(day 1)博客: http://www.cnblogs.com/alan-babyblog/p/5140144.html作业要求:输入用户名,密码认证成功显示欢迎信息输入错误三次后锁定用户使用:1.user_id.txt是存放用户id及密码的文件2.user_lock.txt是存放被锁定的用户id的文档,默认为空.3.程序会对user_id.txt里的合法用户id进行判断,若连续输入用户id错误达三次程序直接退出.4.程序会输入对正确用户名后的密码进行判断,输入密码有3次机会,连续三次错误则会锁定用户id,该用户id会被写入user_lock.txt,程序退出.

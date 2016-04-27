@@ -1,0 +1,4 @@
+{"information": {"age": 24, "name": "ccj", "authentication": {"username": "cj", "passwd": "123", "unpass_question": [{"fav_number": 22}, {"fav_animal": "None"}]}}, "id": 1, "status": {"tag": "unlocked", "superuser": "yes"}}
+{"information": {"age": 25, "name": "xyh", "authentication": {"username": "yh", "passwd": "321", "unpass_question": [{"fav_number": 7}]}}, "id": 2, "status": {"tag": "unlocked", "superuser": "no"}}
+{"information": {"age": 22, "name": "tangll", "authentication": {"username": "tll", "passwd": "222", "unpass_question": [{"fav_count": "korea"}]}}, "id": 3, "status": {"tag": "unlocked", "superuser": "yes"}}
+{"information": {"age": 26, "name": "alan", "authentication": {"username": "alan", "passwd": "123123", "unpass_question": []}}, "id": 4, "status": {"tag": "unlocked", "superuser": "yes"}}
